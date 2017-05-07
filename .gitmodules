@@ -1,0 +1,6 @@
+[submodule "RobotArm"]
+	path = RobotArm
+	url = https://github.com/tutRPi/6DOF-Robot-Arm
+[submodule "Xbox"]
+	path = Xbox
+	url = https://github.com/FRC4564/Xbox
